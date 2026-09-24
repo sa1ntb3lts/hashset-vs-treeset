@@ -1,1 +1,19 @@
+import java.util.HashSet;
+import java.util.Set;
 
+public class EjemploHashSet {
+    public static void main(String[] args) {
+        Set<String> tecnologias = new HashSet<>();
+
+        tecnologias.add("Java");
+        tecnologias.add("Python");
+        tecnologias.add("JavaScript");
+        tecnologias.add("Java");
+        tecnologias.add("SQL");
+        tecnologias.add("Python");
+        tecnologias.add("Git");
+        tecnologias.add("Docker");
+
+        System.out.println(tecnologias);
+    }
+}
