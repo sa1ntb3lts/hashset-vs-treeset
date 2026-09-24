@@ -71,7 +71,7 @@ SQL
 ```
 
 **Pregunta:** ¿En qué situaciones sería importante garantizar que un
-elemento aparezca una sola vez?
+elemento aparezca una sola vez? Tal vez cuando se esta trabajando con bases de datos o algo relacionado.
 
 ## 5. Trabajar con HashSet
 
