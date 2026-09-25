@@ -180,12 +180,12 @@ Complete como hipótesis:
 
   |Característica |                  `HashSet`  | `TreeSet`|
   |----------------|---------------------------|-----------
-  |Permite duplicados|            |               
- | Mantiene orden de inserción |    |             
-  |Mantiene elementos ordenados |        |        
-  |Búsqueda eficiente|              |             
-  |Estructura conceptual |           |            
-  |Requiere elementos comparables  |        |     
+  |Permite duplicados|     No       |       No        
+ | Mantiene orden de inserción |  No  |       No      
+  |Mantiene elementos ordenados |    No    |    Si    
+  |Búsqueda eficiente|       Si       |     Si        
+  |Estructura conceptual |      Si     |      Si      
+  |Requiere elementos comparables  |    No    |     Si
 
 ## 10. Complejidad temporal
 
