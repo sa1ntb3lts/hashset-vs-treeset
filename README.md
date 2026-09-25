@@ -317,7 +317,7 @@ TreeSet<String> tecnologias =
 ```
 
 **Pregunta:** ¿Qué ventaja proporciona definir el criterio de
-ordenamiento directamente en la colección?
+ordenamiento directamente en la colección? Que te puedes dar una idea de como se vera el output.
 
 ## 15. Experimento de desempeño
 
