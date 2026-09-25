@@ -15,5 +15,11 @@ public class EjemploHashSet {
         tecnologias.add("Docker");
 
         System.out.println(tecnologias);
+        
+        boolean agregado = tecnologias.add("Java");
+        System.out.println("¿Se agregó Java? " + agregado);
+
+        boolean agregado2 = tecnologias.add("Kotlin");
+        System.out.println("¿Se agregó Kotlin? " + agregado2);
     }
 }
