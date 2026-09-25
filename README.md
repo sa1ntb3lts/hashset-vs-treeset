@@ -482,7 +482,7 @@ La decisión debe partir de los requisitos y operaciones predominantes.
 13. ¿Para qué sirve `subSet()`? Da un subconjunto con valores entre cierto rango.
 14. ¿Qué papel desempeña un `Comparator` en `TreeSet`? Se usa para ordenar elementos.
 15. ¿Cómo se implementa una unión utilizando `Set`? Con add.
-16. ¿Cómo se implementa una intersección?
+16. ¿Cómo se implementa una intersección? Con retainAll.
 17. ¿Cómo se implementa una diferencia?
 18. ¿En qué escenario utilizaría `HashSet`? Cuando quiero evitar duplicas.
 19. ¿En qué escenario utilizaría `TreeSet`? Cuando quiero mantener un orden.
