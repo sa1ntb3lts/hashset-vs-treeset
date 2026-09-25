@@ -487,7 +487,7 @@ La decisión debe partir de los requisitos y operaciones predominantes.
 18. ¿En qué escenario utilizaría `HashSet`? Cuando quiero evitar duplicas.
 19. ¿En qué escenario utilizaría `TreeSet`? Cuando quiero mantener un orden.
 20. ¿Por qué es conveniente declarar `Set<String>` en lugar de
-    `HashSet<String>` cuando solo se necesitan operaciones de `Set`? Para que sea mas facil trabajar con un ambas implementaciones.
+    `HashSet<String>` cuando solo se necesitan operaciones de `Set`? Para que sea mas facil trabajar con un ambas implementaciones, osea con Tree y Hash.
 
 ## 21. Entregables
 
