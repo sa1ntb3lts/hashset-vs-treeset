@@ -480,7 +480,7 @@ La decisión debe partir de los requisitos y operaciones predominantes.
 11. ¿Qué diferencia existe entre `lower()` y `floor()`? Lower tiene la condicion de que debe ser menor, floor es menor o igual.
 12. ¿Qué diferencia existe entre `higher()` y `ceiling()`? Higher tiene la condicion de que debe ser MAYOR, ceiling es mayor o igual.
 13. ¿Para qué sirve `subSet()`? Da un subconjunto con valores entre cierto rango.
-14. ¿Qué papel desempeña un `Comparator` en `TreeSet`?
+14. ¿Qué papel desempeña un `Comparator` en `TreeSet`? Se usa para ordenar elementos.
 15. ¿Cómo se implementa una unión utilizando `Set`? Con add.
 16. ¿Cómo se implementa una intersección?
 17. ¿Cómo se implementa una diferencia?
