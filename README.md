@@ -473,7 +473,7 @@ La decisión debe partir de los requisitos y operaciones predominantes.
 4.  ¿Qué devuelve `add()` cuando el elemento ya existe? False.
 5.  ¿Por qué `HashSet` no garantiza un orden de iteración? Porque prioriza otras operaciones.
 6.  ¿Qué tipo de orden mantiene `TreeSet`? Estructura de orden de arbol.
-7.  ¿Cuál es la complejidad promedio de `HashSet.contains()`?
+7.  ¿Cuál es la complejidad promedio de `HashSet.contains()`? O(1)
 8.  ¿Cuál es la complejidad de `TreeSet.contains()`?
 9.  ¿Por qué `TreeSet` tiene un costo adicional respecto a `HashSet`?
 10. ¿Qué ventaja proporciona `TreeSet.first()`?
