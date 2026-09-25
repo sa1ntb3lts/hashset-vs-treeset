@@ -484,8 +484,8 @@ La decisión debe partir de los requisitos y operaciones predominantes.
 15. ¿Cómo se implementa una unión utilizando `Set`? Con add.
 16. ¿Cómo se implementa una intersección?
 17. ¿Cómo se implementa una diferencia?
-18. ¿En qué escenario utilizaría `HashSet`?
-19. ¿En qué escenario utilizaría `TreeSet`?
+18. ¿En qué escenario utilizaría `HashSet`? Cuando quiero evitar duplicas.
+19. ¿En qué escenario utilizaría `TreeSet`? Cuando quiero mantener un orden.
 20. ¿Por qué es conveniente declarar `Set<String>` en lugar de
     `HashSet<String>` cuando solo se necesitan operaciones de `Set`?
 
