@@ -358,10 +358,10 @@ Ejecute al menos tres veces:
 
  | Ejecución|     HashSet|   TreeSet|
 |-----------|---------|---------|
-|  1     |  0   |0|           
- | 2     |  0  |0|            
-|  3     | 0 |0|              
- | Promedio |   0    | 0    |     
+|  1     |  51.948   | 109.926 |           
+ | 2     |  52.356  | 108.926 |            
+|  3     | 52.272 | 107.774 |              
+ | Promedio |   53.415   |  112.482  |     
 
 Después mida búsquedas mediante `contains()` y eliminaciones. Compare
 los resultados con las complejidades esperadas. Los tiempos con
