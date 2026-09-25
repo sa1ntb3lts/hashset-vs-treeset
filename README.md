@@ -115,7 +115,7 @@ Si el elemento no pertenece al conjunto, `add()` devuelve `true`; si ya
 existe, devuelve `false`.
 
 **Pregunta:** ¿Cómo puede utilizarse este resultado para detectar
-registros duplicados?
+registros duplicados? Por ejemplo en una base de datos o servidor con dominio local, no puedan existir dos usuarios con el mismo username.
 
 ## 7. Operaciones fundamentales
 
