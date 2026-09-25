@@ -20,6 +20,7 @@ public class RegistroParticipantes {
             System.out.print("\nSelecciona una opcion: ");
 
             opcion = input.nextInt();
+            input.nextLine();
 
             switch (opcion) {
                 case 1:
