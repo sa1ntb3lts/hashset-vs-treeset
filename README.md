@@ -425,7 +425,7 @@ new TreeSet<>()
 Compare el comportamiento funcional y el orden de presentación.
 
 **Pregunta central:** Si ambos impiden duplicados, ¿qué requisito
-funcional justificaría utilizar `TreeSet`?
+funcional justificaría utilizar `TreeSet`? Por el orden.
 
 ## 17. Ampliación: consultas por rango
 
