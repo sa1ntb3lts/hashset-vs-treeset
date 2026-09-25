@@ -483,11 +483,11 @@ La decisión debe partir de los requisitos y operaciones predominantes.
 14. ¿Qué papel desempeña un `Comparator` en `TreeSet`? Se usa para ordenar elementos.
 15. ¿Cómo se implementa una unión utilizando `Set`? Con add.
 16. ¿Cómo se implementa una intersección? Con retainAll.
-17. ¿Cómo se implementa una diferencia?
+17. ¿Cómo se implementa una diferencia? removeAll.
 18. ¿En qué escenario utilizaría `HashSet`? Cuando quiero evitar duplicas.
 19. ¿En qué escenario utilizaría `TreeSet`? Cuando quiero mantener un orden.
 20. ¿Por qué es conveniente declarar `Set<String>` en lugar de
-    `HashSet<String>` cuando solo se necesitan operaciones de `Set`?
+    `HashSet<String>` cuando solo se necesitan operaciones de `Set`? Para que sea mas facil trabajar con un ambas implementaciones.
 
 ## 21. Entregables
 
