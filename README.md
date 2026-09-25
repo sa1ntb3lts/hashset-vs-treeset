@@ -467,11 +467,11 @@ La decisión debe partir de los requisitos y operaciones predominantes.
 
 ## 20. Preguntas de análisis
 
-1.  ¿Qué característica fundamental define a `Set`?
-2.  ¿Permite `HashSet` elementos duplicados?
-3.  ¿Permite `TreeSet` elementos duplicados?
-4.  ¿Qué devuelve `add()` cuando el elemento ya existe?
-5.  ¿Por qué `HashSet` no garantiza un orden de iteración?
+1.  ¿Qué característica fundamental define a `Set`? No permite duplicas.
+2.  ¿Permite `HashSet` elementos duplicados? No.
+3.  ¿Permite `TreeSet` elementos duplicados? No.
+4.  ¿Qué devuelve `add()` cuando el elemento ya existe? False.
+5.  ¿Por qué `HashSet` no garantiza un orden de iteración? 
 6.  ¿Qué tipo de orden mantiene `TreeSet`?
 7.  ¿Cuál es la complejidad promedio de `HashSet.contains()`?
 8.  ¿Cuál es la complejidad de `TreeSet.contains()`?
